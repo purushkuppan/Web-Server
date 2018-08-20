@@ -1,0 +1,25 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purushkuppan/Web-Server.git"
+  },
+  "author": "Purush kuppan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/purushkuppan/Web-Server/issues"
+  },
+  "homepage": "https://github.com/purushkuppan/Web-Server#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "hbs": "^4.0.1"
+  }
+}
